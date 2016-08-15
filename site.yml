@@ -1,0 +1,6 @@
+
+- hosts: host1
+#  remote_user: root
+
+  roles:
+- jboss-eap
